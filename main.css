@@ -1,0 +1,46 @@
+
+body {
+    font-size: 2em;
+    text-align: center;
+    background-color:teal;
+}
+h1{
+    color:white;
+}
+
+#cube {
+    width: 300px;
+}
+
+#questionMark {
+    width: 200px;
+}
+
+.questionSiblings {
+    text-align: left;
+    margin-top: 2em;
+}
+
+.btn {
+    width: 100px;
+    height: 25px;
+    margin: 0.1em;
+    background-color: rgb(10, 35, 253);
+    color: white;
+    font-size: 1rem;
+    border-radius: 8px; 
+}
+
+.btn:hover {
+    background-color: grey;
+    cursor: grab;
+}
+
+.test{
+    color: yellow;
+    margin-top: 2em;
+}
+
+#hejhej {
+    margin-top: 0px;
+}
